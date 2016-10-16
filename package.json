@@ -1,0 +1,24 @@
+{
+  "name": "sync-async",
+  "version": "1.0.0",
+  "description": "Synchronous and Asynchronous control flow",
+  "main": "synchronous-ex.js",
+  "scripts": {
+    "test": "node synchronous-ex.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spoorthya/sync-async-node.git"
+  },
+  "keywords": [
+    "sleep",
+    "async",
+    "underscore"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spoorthya/sync-async-node/issues"
+  },
+  "homepage": "https://github.com/Spoorthya/sync-async-node#readme"
+}
